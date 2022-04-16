@@ -1,0 +1,3 @@
+name: RDProtectIP-2
+main: rd.main.protect
+version: 2.0
